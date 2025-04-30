@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋,%20I'm%20Rounak%20Gera)
+![header]([https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋,%20I'm%20Rounak%20Gera](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋,%20I'm%20Rounak%20Gera&desc=A%20Deep%20Learning%20Enthusiast%20from%20India&descAlignY=61&fontAlignY=41))
 
-<h3 align="center">A Deep Learning Enthusiast from India</h3>
 
 - 🔭 I’m currently working on **AI News Newsletter**
 
