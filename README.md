@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I'm happy**
 <br/>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=23&pause=1000&color=7495FF&background=FFF02700&width=435&lines=Connect++with++me%3A)
 <p align="left">
 <a href="https://linkedin.com/in/rounak-gera-229a46287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rounak-gera-229a46287" height="30" width="40" /></a>
