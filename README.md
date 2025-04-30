@@ -42,3 +42,25 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rounak890&show_icons=true&locale=en&layout=compact" alt="rounak890" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rounak890&show_icons=true&locale=en" alt="rounak890" /></p>
+
+
+<!-- GitHub stats card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rounakgera&show_icons=true&theme=tokyonight" />
+</p>
+
+<!-- GitHub streaks -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rounakgera&theme=tokyonight" />
+</p>
+
+<!-- GitHub top langs -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rounakgera&layout=compact&theme=tokyonight" />
+</p>
+
+<!-- GitHub trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rounakgera&theme=algolia&margin-w=15&margin-h=15" />
+</p>
+
