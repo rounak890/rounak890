@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Machine Learning, Deep Learning and research**
 
 - ⚡ Fun fact **I'm happy**
-<br/>
+<br/><hr/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=23&pause=1000&color=7495FF&background=FFF02700&width=435&lines=Connect++with++me%3A)
 <p align="left">
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <a href="https://www.leetcode.com/rgera1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rgera1" height="30" width="40" /></a>
 </p>
 
-<br/>
+<br/><hr/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=23&pause=1000&color=7495FF&background=FFF02700&width=435&lines=Languages+and+Tools)
 <p align="left">
