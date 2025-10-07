@@ -56,3 +56,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rounak890&theme=tokyonight-duo)](https://git.io/streak-stats)
 
+<br/>
+
+<a href="https://app.daily.dev/rgera1"><img src="https://api.daily.dev/devcards/v2/r5yWq2ysvXSNrw0BoLtvp.png?r=94r&type=wide" width="652" alt="Rg's Dev Card"/></a>
+
